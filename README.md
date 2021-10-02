@@ -17,3 +17,16 @@ Data Source : the US Superstore dataset from Kaggle : https://www.kaggle.com/juh
 - SUMMARIZATIONCOLUMNS
 - SUMMARIZE WITH A FILTER
 - GROUP BY
+- CALCULATETABLE to Filter a GROUPBY
+- Joining with/without standard relationships
+- CROSSJOIN Function
+- GENERATE Function
+- NATURALINNERJOIN and NATURALLEFTOUTERJOIN
+- Union, Except, and Intersect
+- CALENDER() and CALENDERAUTO()
+- IS WORKING DAY
+- Days from Today
+- Week Starting Monday/Sunday
+- Time Intelligence functions
+
+
