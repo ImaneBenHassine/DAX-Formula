@@ -29,4 +29,23 @@ Data Source : the US Superstore dataset from Kaggle : https://www.kaggle.com/juh
 - Week Starting Monday/Sunday
 - Time Intelligence functions
 
+#### Some of the analytical patterns I was able to solve: 
+- Percent of Total
+- Moving Averages
+- Statistical Analysis
+- Cumulative totals
+- Time Intelligence
+- Static Grouping
+- Dynamic Grouping
+- Events in Progress
+- Budgeting
+- Forecasting
+- Parameter tables
+- Scenario & What if analysis
+- Attrition analysis
+- Market basket analysis
+- Customer insights & behaviours
+- Many to many relationships
+- Related unique counts
+- Examples of combining various techniques
 
